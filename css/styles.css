@@ -9,13 +9,14 @@ body{
 
 .navbar-style{
     box-shadow: 0 5px 10px #efefef;
-    background-color: #ff512f;
+    background-color: #efefef;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .logo{
     height: 10vh;
-    border-radius: 10%;
+    border-radius: 20%;
+    padding: 2px 10px;
 }
 
 .nav-link{
@@ -60,13 +61,17 @@ body{
     font-size: 30vh;
 }
 .mybanner h2{
-    font-size: 6vmax;
+    font-size: 14vh;
     color: #ff512f;
     font-weight: bolder;
     text-shadow: 3px 4px whitesmoke;
 }
-
+.mybanner p{
+    color: whitesmoke;
+    font-size: 4vh;
+    font-style: italic;
+    text-shadow: 2px 1px black;
+}
  .btn{
     margin-bottom: 50vh;
  }
-
