@@ -15,13 +15,7 @@ body{
 
 .logo{
     height: 10vh;
-    border-radius: round;
-}
-
-h3{
-    color: whitesmoke;
-    padding-right: 40vh;
-
+    border-radius: 10%;
 }
 
 .nav-link{
@@ -30,12 +24,6 @@ h3{
     color: whitesmoke;
     font-weight: bold;
     text-shadow: 3px solid #efefef;
-}
-
-.nav-link:hover{
-    font-size: 4vh;
-    transition: 1s;
-    color: whitesmoke;
 }
   
   .background-video {
@@ -71,28 +59,14 @@ h3{
     margin-top: 70vh;
     font-size: 30vh;
 }
+.mybanner h2{
+    font-size: 6vmax;
+    color: #ff512f;
+    font-weight: bolder;
+    text-shadow: 3px 4px whitesmoke;
+}
+
  .btn{
     margin-bottom: 50vh;
  }
 
-
-
-
- footer {
-    background-color: darkslategrey;
-    overflow-x: hidden;
-    padding: 14vmin 18vmin;
-}
-  
-  footer p > span {
-    color: #ff512f;
-}
-  
-  footer input {
-    border: none !important;
-} 
-  
-  footer .input-group .input-group-text {
-    background: var(--bggradient);
-    border: none;
-}
