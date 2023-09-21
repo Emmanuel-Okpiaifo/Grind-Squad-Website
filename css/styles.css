@@ -75,18 +75,18 @@ body{
 
 .help{
     border-left: 10px solid brown;
-    height: 50px;
+    height: 60px;
     margin-top: 10vh;
     margin-left: 15vh;
 }
 
 .mybanner h3{
     color: #fbfbfd;
-    font-weight: bolder;
     margin-right: 150vh;
     padding-bottom: 20vh;
-    font-size: 9vh;
+    font-size: 5vh;
     text-shadow: 3px 4px black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
  .btn{
