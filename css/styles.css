@@ -96,7 +96,7 @@ body{
 
 
 
-
+/* Footer */
  body {
     background: #fbfbfd;
 }
@@ -169,7 +169,6 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 .new_footer_top .f_social_icon a {
     width: 44px;
     height: 44px;
-    line-height: 43px;
     background: transparent;
     border: 1px solid #e2e2eb;
     font-size: 24px;
@@ -178,8 +177,6 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
     width: 46px;
     height: 46px;
     border-radius: 50%;
-    font-size: 14px;
-    line-height: 45px;
     color: #858da8;
     display: inline-block;
     background: #ebeef5;
